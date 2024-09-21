@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application/>
+        <assessment/>
+        <device_type/>
+        <filter table="x_58872_needit_needit">state=13^EQ<item display_value="Requested" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="13"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint>A list of my NeedIt Requests</hint>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>My NeedIt Requests</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_58872_needit_needit</name>
+        <order>75</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_58872_needit.admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-13 15:00:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>43ae7cf2c3a01210d97d7cec050131b0</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>My NeedIt Requests</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_43ae7cf2c3a01210d97d7cec050131b0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-14 16:16:52</sys_updated_on>
+        <timeline_page/>
+        <title>My NeedIt Requests</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>5e04f2eb1b994e1832182f8dee4bcbd5</instance_id>
+        <instance_name>dev258323</instance_name>
+        <name>sys_app_module_43ae7cf2c3a01210d97d7cec050131b0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application/><assessment/><device_type/><filter table="x_58872_needit_needit">state=13^EQ<item display_value="Requested" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="13"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><hint>A list of my NeedIt Requests</hint><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>My NeedIt Requests</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_58872_needit_needit</name><order>75</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_58872_needit.admin</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-13 15:00:30</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>43ae7cf2c3a01210d97d7cec050131b0</sys_id><sys_mod_count>5</sys_mod_count><sys_name>My NeedIt Requests</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_module_43ae7cf2c3a01210d97d7cec050131b0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-14 16:16:52</sys_updated_on><timeline_page/><title>My NeedIt Requests</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1303331297</payload_hash>
+        <record_name>My NeedIt Requests</record_name>
+        <reverted_from/>
+        <source>e363453ec3a01210d97d7cec050131ca</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-14 16:16:52</sys_created_on>
+        <sys_id>c8ccd2c7c368d210d97d7cec05013108</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191f152aa7d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-14 16:16:52</sys_updated_on>
+        <type>Module</type>
+        <update_guid>80ccd2c75c68d21015f94c59d62d9f08</update_guid>
+        <update_guid_history>80ccd2c75c68d21015f94c59d62d9f08:1303331297,546b1683ee68d210f7e681eabed5b7bb:-619089381,1b19c53ebae0121086ad7cb513349593:-1113884690,30d8c5faa3e01210a1982768f783fa75:-1068657406,96784d7a2ce012108febae2275d160a6:-1347667386,f7a1853ae5a01210a42b4c16057153e5:-636252118</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="My NeedIt Requests">56ee9ecbc368d210d97d7cec05013193</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-14 16:26:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>5cddaf70720d46bba1bc7e869fcb1959</sys_id>
+        <sys_metadata>43ae7cf2c3a01210d97d7cec050131b0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My NeedIt Requests</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_module_43ae7cf2c3a01210d97d7cec050131b0</sys_update_name>
+        <sys_update_version display_value="sys_app_module_43ae7cf2c3a01210d97d7cec050131b0">c8ccd2c7c368d210d97d7cec05013108</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-14 16:26:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
