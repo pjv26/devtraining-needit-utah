@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9d68c2ebc37c5610d97d7cec050131a6" extends="sys_import_set_row" label="selected" max_length="40" name="x_58872_needit_selected" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=J" label="J" max_length="619" name="u_j" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=I" label="I" max_length="127" name="u_i" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=B" label="B" max_length="235" name="u_b" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=F" label="F" max_length="44" name="u_f" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=G" label="G" max_length="88" name="u_g" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=H" label="H" max_length="133" name="u_h" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=D" label="D" max_length="40" name="u_d" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=UPCOMING ENGINEERING ENTRANCE EXAMS" label="UPCOMING ENGINEERING ENTRANCE EXAMS" max_length="40" name="u_upcoming_eng_entrance_exams" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=C" label="C" max_length="47" name="u_c" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=E" label="E" max_length="40" name="u_e" type="string"/>
+    </element>
+</database>
